@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/CloudAstro/terraform-azurerm-bastion-host/compare/v1.0.0...v1.1.0) (2026-06-22)
+
+
+### Features
+
+* bump tf and provider version ([ccf2fa5](https://github.com/CloudAstro/terraform-azurerm-bastion-host/commit/ccf2fa5bd455c123d493664986f30a28bf2d46fb))
+
 ## 1.0.0 (2025-07-09)
 
 
